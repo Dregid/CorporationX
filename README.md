@@ -17,3 +17,4 @@ https://github.com/CorporationX/notification_service/blob/unicorn-master/src/mai
 
 В сервисе работы с пользователями, я разработал систему подписчиков. Конкретная реализация здесь: https://github.com/CorporationX/user_service/blob/unicorn-master/src/main/java/school/faang/user_service/controller/SubscriptionController.java
 
+Соблюдая идемпотонтость, создал систему хранения запросов и операций: https://github.com/Dregid/account_service/blob/unicorn-master/src/main/java/faang/school/accountservice/service/RequestService.java
